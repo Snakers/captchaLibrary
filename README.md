@@ -1,4 +1,4 @@
-# captchaLibrary
+# Captcha Library
 Advanced Generation of Captcha Numbers and alphabets.
 
 
