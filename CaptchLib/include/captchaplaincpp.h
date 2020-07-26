@@ -3,7 +3,7 @@
  * Date : 2020/07/16
  * This Library Created to generate Captcha numbers and chars ..
  * over control you can control The level of Secuirty and chooseing background color
- * WIKI HOW :
+ * How:
  * 1) you need to determine which type you want numbers or chars or both
  * 2) how many chars or numbers you want to generate call init function and pass the number you want
  * 3) call captchVectorize to vectorize the elements.
